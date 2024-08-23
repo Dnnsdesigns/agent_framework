@@ -1,0 +1,4 @@
+asyncio
+pytest
+apscheduler
+sqlite3
